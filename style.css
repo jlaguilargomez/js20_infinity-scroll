@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -5,5 +7,14 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: dodgerblue;
+  font-family: Bebas Neue, sans-serif, Arial, Helvetica;
+  background: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 40px;
+  letter-spacing: 5px;
 }
